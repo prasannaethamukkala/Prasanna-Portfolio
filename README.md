@@ -39,6 +39,13 @@ I am an aspiring Data Analyst with a strong interest in analyzing data, identify
 - Used Python Flask and MongoDB.
 - Implemented student, faculty and admin modules.
 
+### 4. Human Abnormal Activities Detection System
+- Technologies: Python, Machine Learning, Computer Vision
+- Developed a system to identify abnormal human activities using multiple camera feeds.
+- Designed to monitor up to 8 camera feeds.
+- Focused on detecting suspicious activities and generating alerts.
+- Targeted rapid detection and text alerts within 3 seconds.
+
 ## 🎓 Certifications & Internships
 
 - Full Stack Development & AI Hackathon Certificate
