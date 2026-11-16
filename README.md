@@ -53,7 +53,7 @@ I am an aspiring Data Analyst with a strong interest in analyzing data, identify
 
 - **Email:** ethamukkalaprasannakumari@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/prasanna-kumari-ethamukkala-13230b314/
-- **GitHub:** 
+- **GitHub:** https://github.com/prasannaethamukkala
 
 ---
 
